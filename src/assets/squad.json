@@ -1,0 +1,30 @@
+{
+  "squadGang": "Super hero squad",
+  "homeTown": "Metro City",
+  "invented": 2016,
+  "secretIndustry": "Super Ship",
+  "alive": true,
+  "teamSquad": [
+    {
+      "name": "Ant Man",
+      "age": 33,
+      "secretRole": "Jukes",
+      "powers": [
+        "Radiation Blockage",
+        "Turning Huge",
+        "Radiation Waves"
+      ]
+    },
+    {
+      "name": "Randal Uppercut",
+      "age": 999,
+      "secretRole": "Jane",
+      "powers": [
+        "Million punch",
+        "Damage Resistance And tackle",
+        "Superhuman reflexes",
+        "Spiderman Web"
+      ]
+    }
+  ]
+}
