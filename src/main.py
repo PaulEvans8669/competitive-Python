@@ -10,6 +10,10 @@ def exampleJsonRead():
     data = JsonManager.readFile('./assets/squad.json')
     print(data)
     print(JsonManager.prettyPrint(data))
+    print(data.get('squadGang'))
 
 
 exampleJsonRead()
+
+
+
