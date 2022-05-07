@@ -19,7 +19,7 @@ Base python project for competitive programming
 
 # Be a GigaChad
 
-https://wiki.python.org/moin/TimeComplexity
-https://stackoverflow.com/questions/3766633/how-to-sort-with-lambda-in-python
-https://www.geeksforgeeks.org/lambda-filter-python-examples/
-https://betterprogramming.pub/10-python-tips-for-competitive-programming-bae8375dd73b
+- https://wiki.python.org/moin/TimeComplexity
+- https://stackoverflow.com/questions/3766633/how-to-sort-with-lambda-in-python
+- https://www.geeksforgeeks.org/lambda-filter-python-examples/
+- https://betterprogramming.pub/10-python-tips-for-competitive-programming-bae8375dd73b
