@@ -13,7 +13,7 @@ Base python project for competitive programming
 
 ## Execution
 
-**!!Your CWD must always be the root of the git repo (i.e: `competitive-Python`)!!**
+**!!Your CWD must always be at the root of the git repo (i.e: `competitive-Python`)!!**
 
 `python .\src\main.py`
 
