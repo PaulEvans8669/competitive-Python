@@ -1,4 +1,4 @@
-# competitive-Python
+# WikiHow - Comment gagner une switch OLED en 4 easy etapes
 Base python project for competitive programming
 
 
