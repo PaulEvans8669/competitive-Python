@@ -18,7 +18,7 @@ def exampleJsonRead():
     print(data.get('squadGang'))
 
 
-exampleJsonRead()
+# exampleJsonRead()
 
 
 #=================== HAPPY NUMBERS ====================
